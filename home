@@ -1,0 +1,2 @@
+<button type="button" onclick="myFunction()">Date</button>
+<p id="demo"></p>
